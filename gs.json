@@ -60,6 +60,11 @@
         "title": "Drift Hunters"
     },
     {
+        "image": "drift-hunters.jpg",
+        "location": "./src/gs/public/drift/",
+        "title": "Friday Night Funkin"
+    },
+    {
         "image": "ducklife.jpg",
         "location": "./src/gs/public/ducklife/",
         "title": "Duck Life"
